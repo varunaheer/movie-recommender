@@ -4,7 +4,7 @@ An end-to-end ML + deployment project: data preprocessing → TF-IDF vectorizati
 
 ## Dataset
 - Name: TMDB 5000 Movie Dataset
-- Kaggle link: https://www.kaggle.com/datasets/tmdb/tmdb-5000-movie-dataset
+- Kaggle link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - File used: 'tmdb_5000_movies.csv'
 - Item identifier: 'title'
 - Text features: 'overview', 'genres', 'keywords'
