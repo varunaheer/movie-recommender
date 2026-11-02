@@ -39,7 +39,7 @@ streamlit run app.py       # launch the app
 ## Deployment (Render)
 - Build command: 'pip install -r requirements.txt'
 - Start command: 'streamlit run app.py --server.port $PORT --server.address 0.0.0.0'
-- Deployed URL: '<paste your Render URL here>'
+- Deployed URL: 'https://movie-recommender-u0mx.onrender.com/'
 
 ## Tech Stack
 Python, Pandas, NumPy, scikit-learn, Streamlit, Git/GitHub, Render
